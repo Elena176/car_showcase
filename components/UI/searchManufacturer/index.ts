@@ -1,0 +1,1 @@
+export {SearchManufacturer} from './SearchManufacturer';
